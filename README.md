@@ -1,6 +1,6 @@
 # HiringTestCSVsManipulation
 
-Welcome to the "Hiring Test" where we are going to check basic skills of Java
+Welcome to the "Hiring Test" where we are going to check basic skills of Java on reading and saving data on CSV's
 
 You could clone this code and create a specific branch for yourself.
 
