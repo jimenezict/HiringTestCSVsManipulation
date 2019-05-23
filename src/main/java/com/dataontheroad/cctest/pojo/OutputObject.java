@@ -1,4 +1,4 @@
-package datumize.cctest.pojo;
+package dataontheroad.cctest.pojo;
 
 public class OutputObject {
 	private String zone;

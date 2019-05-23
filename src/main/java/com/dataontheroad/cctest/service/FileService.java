@@ -1,4 +1,5 @@
-package datumize.cctest.service;
+package dataontheroad.cctest.service;
+
 
 import java.io.File;
 import java.util.List;
@@ -6,7 +7,7 @@ import java.util.List;
 import datumize.cctest.pojo.InputObject;
 import datumize.cctest.pojo.OutputObject;
 
-public class FileService {
+public interface FileService {
 	
 	public static File getFileByName(String name){
 		

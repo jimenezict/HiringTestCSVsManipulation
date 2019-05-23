@@ -1,4 +1,3 @@
-package datumize.cctest;
 
 import java.io.File;
 import java.util.List;
